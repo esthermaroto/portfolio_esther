@@ -1,11 +1,17 @@
 {
     "nombre": "Esther",
-    "apellidos": "Maroto Torres",
-    "edad": 18,
-    "fecha de nacimiento": "27/08/2006",
-    "teléfono":"696-866-698",
-    "email": "esthermt27@icloud.com"
-    
-
+    "profesion":"Estudiante de 1º de Desarrollo de Aplicaciones Web",
+    "bio":"Con estudios de bachillerato de ciencias tecnológicas, en el centro IES Luis Bueno Crespo en el curso escolar 2021-2024",
+    "experiencia": [
+        {
+            "titulo": "Desarrollo de Aplicaciones Web",
+            "descripción": "En curso",
+            "fecha": "2024-2025"
+        }
+        
+    ],
+    "habilidades": [
+        "B2 Inglés", "Conocimiento en diseño e imoresión 3D", "Manejo del entorno microsoft365"
+    ]
 
 }
