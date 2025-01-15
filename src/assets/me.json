@@ -1,6 +1,6 @@
 {
-    "nombre": "Esther",
-    "profesion":"Estudiante de 1º de Desarrollo de Aplicaciones Web",
+    "nombre": "Esther Maroto Torres",
+    "profesion":"Estudiante de 1º de GCFS DAW",
     "bio":"Con estudios de bachillerato de ciencias tecnológicas, en el centro IES Luis Bueno Crespo en el curso escolar 2021-2024",
     "experiencia": [
         {
@@ -11,7 +11,7 @@
         
     ],
 
-    "habilidades": [ "Inglés B2", "Diseño de piezas 3D"]
+    "habilidades": [ "Inglés B2", "Diseño de piezas 3D", "habilidad", "habilidad", "habilidad", "habilidad" ]
 
 
 }
