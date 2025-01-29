@@ -1,5 +1,6 @@
 html{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #E9FFF9;
 }
 
 section {
@@ -16,13 +17,13 @@ section {
     padding: 20px;
     border-radius: 30px;
     gap: 16px;
-    background-color: #ffdada;
+    background-color: #9ED8DB;
     height: 50vh;
 }
 .nombre {
     font-size: 72px;
     line-height: 0;
-    color:#ff9b9b
+    color:#467599
 }
 .profesion{
     font-size: 32px;
@@ -34,47 +35,61 @@ section {
     line-height: 1.5;
 }
 
+
+.apartado0{
+    color: #a94608;
+    background-color: #FF8C42;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 30px;
+}
 .proyecto{
     padding: 10px;
     width: fit-content;
-    background-color: #ffe0e0;
+    background-color: #9ED8DB;
     border-radius: 30px;
     margin-bottom: 5px;
 }
 .proyecto:hover{
-    background-color: #fddce4;
+    background-color: #569da1;
 }
 .enlace-proyecto{
-    color: #ff9d9d;
+    color: #467599;
     text-decoration: none;
 }
 .enlace-proyecto:hover {
-    color: #ffc0cd;
+    color: #9ED8DB;
 }
 
+
+
 .apartado1{
-    color :#ff8c8c;
-    background-color: #ffcccc;
+    color :#a94608;
+    background-color: #FF8C42;
     width: fit-content;
     padding: 10px;
     border-radius: 30px;
 }
 .experiencia{
     padding: 16px;
-    border: 1px solid #ff9d9d;
+    border: 1px solid #467599;
     border-radius: 16px;
     margin-bottom: 16px;
 }
 .exp-titulo{
     font-weight: 700;
+    color: #467599;
 }
 .exp-fecha{
     font-size: 14px;
-    color: #999;
+    color: #abcec5;
 }
+
+
+
 .apartado2{
-    color: #ff8c8c;
-    background-color: #ffcccc;
+    color: #a94608;
+    background-color: #FF8C42;
     width: fit-content;
     padding: 10px;
     border-radius: 30px;
@@ -86,7 +101,7 @@ section {
 .habilidades{
     padding: 10px;
     width: fit-content;
-    background-color: #ffcccc;
+    background-color: #9ED8DB;
     border-radius: 30px;
     margin-bottom: 5px;
     

@@ -1,14 +1,15 @@
 ---
+
 import Instagram from "./icons/Instagram.astro";
 import Linkedin from "./icons/Linkedin.astro";
-
+import Git from "./icons/git.astro";
 ---
 <footer>
     <nav>
         <ul>            
-            <li class="insta"><a href=""><Instagram/></a></li>
-            <li class="git"><a href=""><git/></a></li>
-            <li class="lin"><a href=""><Linkedin/></a></li>
+            <li class="insta"><a href="https://www.instagram.com/ster_27_/"><Instagram/></a></li>
+            <li class="git"><a href="https://github.com/esthermaroto"><Git/></a></li>
+            <li class="lin"><a href="https://www.linkedin.com/in/esther-maroto-torres-52a74927a/"><Linkedin/></a></li>
         </ul>
     </nav>
 </footer>
@@ -17,7 +18,7 @@ import Linkedin from "./icons/Linkedin.astro";
     footer{
         margin-top: 84px;
         width: 100%;
-        background-color: #ff9b9b;
+        background-color: #1D3354;
         color:white;
         display:flex;
         flex-direction: column;
@@ -31,13 +32,10 @@ import Linkedin from "./icons/Linkedin.astro";
         gap: 16px;
         align-items: center;
     }
-    insta{
-        color: white;
+    li{
+        list-style: none;
     }
-    git{
-        color: white;
-    }
-    lin{
-        color: white;
+    a{
+        color: #E9FFF9;
     }
 </style>
